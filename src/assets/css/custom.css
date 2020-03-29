@@ -1,0 +1,18 @@
+@import url(//db.onlinewebfonts.com/c/e119a39f5b10f3db35f0a7253e32c691?family=Booster+Next+FY);
+@import url(//db.onlinewebfonts.com/c/59a5f95fa6cbfbc6a7dfa063dee0ab1b?family=BoosterNextFYW01-Bold);
+
+.jumbotron__p-font {
+    font-family: "BoosterNextFYW01-Bold";
+}
+
+.ant-menu-horizontal>.ant-menu-item:hover,
+.ant-menu-horizontal>.ant-menu-submenu:hover,
+.ant-menu-horizontal>.ant-menu-item-active,
+.ant-menu-horizontal>.ant-menu-submenu-active,
+.ant-menu-horizontal>.ant-menu-item-open,
+.ant-menu-horizontal>.ant-menu-submenu-open,
+.ant-menu-horizontal>.ant-menu-item-selected,
+.ant-menu-horizontal>.ant-menu-submenu-selected {
+    color: #000;
+    border-bottom: 2px solid #c05621;
+}
